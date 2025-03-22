@@ -1,1 +1,1 @@
-# smart-retail-recommendation-system
+# Smart Retail Recommendation System
